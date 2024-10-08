@@ -26,3 +26,5 @@ Conclusion
 Our EDA provides valuable insights into community behavior and population dynamics, highlighting how optimal resource utilization can enhance enforcement strategies. The emphasis on transparency and trust-building aligns with the goals of the Montgomery County Police Department (MCPD), suggesting that data-driven insights can strengthen community relationships and improve public perceptions of policing efforts.
 
 In conclusion, regarding our hypothesis—Do certain demographic groups experience higher traffic stop rates?—the answer varies based on time, population density, and different employment sectors, which all influence the routes taken and the accumulation of traffic violations.
+
+Here's a link to access the complete project: https://drive.google.com/drive/folders/1JqWSWFtaMC3xRFfKUxQ0h652pwI0tMgi?usp=sharing
